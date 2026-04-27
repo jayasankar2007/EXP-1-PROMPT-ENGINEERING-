@@ -128,3 +128,6 @@ The experiment on Generative Artificial Intelligence and Large Language Models (
 7. Despite its advantages, the experiment also revealed important challenges such as high computational requirements, potential bias in generated outputs, ethical concerns, and the risk of misinformation.
 
 In conclusion, the experiment successfully validates that Generative AI and LLMs represent a significant advancement in artificial intelligence, offering powerful capabilities for content generation while also requiring responsible and ethical implementation.
+
+[GenAI_LLM_Report.docx](https://github.com/user-attachments/files/27110537/GenAI_LLM_Report.docx)
+
