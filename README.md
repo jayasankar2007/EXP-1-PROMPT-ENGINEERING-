@@ -1,5 +1,3 @@
-<img width="380" height="1900" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/c3d78d32-2ced-46f7-98ef-d4c224e32505" /># EXP-1-PROMPT-ENGINEERING-
-
 ## Aim: 
 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment: Develop a comprehensive report for the following exercises:
